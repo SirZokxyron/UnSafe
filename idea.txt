@@ -1,0 +1,21 @@
+╓───────────────────────────╖ ╓────────╖		5
+║ UnSafe - Password Manager ║ ║ Hashed ║		4
+╙───────────────────────────╜ ╙────────╜		3
+[esc]    - quit
+[typing] - input master key
+
+
+
+╓───────────────────────────╖ ╓──────────╖
+║ UnSafe - Password Manager ║ ║ UnHashed ║
+╙───────────────────────────╜ ╙──────────╜
+╓───╥─────────╥───────────────────╥───────────────╖
+║ 1 ║ Google  ║ any.mail@mail.com ║ passwordhash1 ║
+╟───╫─────────╫───────────────────╫───────────────╢
+║ 2 ║ YouTube ║ any.mail@mail.com ║ passwordhash2 ║
+╙───╨─────────╨───────────────────╨───────────────╜
+a > add new combo
+e > edit existing combo
+c > 
+d > delete existing combo
+q > quit
